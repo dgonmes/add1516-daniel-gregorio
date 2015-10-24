@@ -1,0 +1,3 @@
+pepe:gonzalez:pepe@gmail.com:11/5/1890:add
+lolo:perez:lolo@gmail.com:11/5/1890:delete
+wiwi:dedi::11/30/3000:add
